@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Uros
 
-<!--
-**rkeus/rkeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & AI systems engineer in Belgrade, Serbia. 20+ years of building and running production web systems, from multi-language site networks and a live streaming platform to self-hosted AI infrastructure: RAG, MCP servers and agent tooling.
 
-Here are some ideas to get you started:
+Founder of [rkeus](https://rkeus.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I work on
+
+- **AI systems** - RAG platforms, MCP servers, custom agent skills and n8n automation pipelines, running on my own infrastructure with local inference (Ollama), so no data leaves the building.
+- **Full-stack** - PHP, Python / FastAPI, JavaScript, React Native, PostgreSQL + pgvector, MySQL.
+- **Infrastructure** - Linux, Nginx, Docker, Proxmox, TrueNAS. I run 4 production web servers and 3 on-prem servers. Grafana + Prometheus watch my sites, the network and ISP outages.
+- **Technical SEO** - built and ranked 360+ sites across multiple languages; programmatic SEO and AI search (GEO).
+
+#### Selected projects
+
+- **ai-context** - self-hosted RAG platform that gives AI coding agents persistent, searchable memory. Heading-aware chunking, local Ollama embeddings, PostgreSQL + pgvector (HNSW), and keyword search as a fallback when the embedder is down. Served over an MCP server and a FastAPI REST API. In daily use across dozens of my projects.
+- **Hermes agent skills** - I run the open-source Hermes agent with my own skills for daily ops: email triage, git activity, Proxmox / infra health. Security is enforced in code, not config: non-GET methods raise before a socket opens, OAuth2 goes through a single scope-validation choke point, and logs are redacted centrally.
+- **MILE** - homelab control panel and voice assistant (Node.js / Express): Proxmox containers, Docker, router and WireGuard VPN management, scheduled jobs with an audit log, and an MCP server for agents. Designed by me, built with Claude Code.
+- **Radio S** (client work) - streaming platform for 8+ terrestrial and 30+ digital radio stations and live music TV, plus a React Native app shipped on iOS and Android.
+- **Fleet management SaaS** (rkeus) - multi-tenant B2B platform for rent-a-car and leasing companies, in testing with client companies.
+
+Repositories are being published here step by step.
+
+#### How I build
+
+AI-assisted engineering: I own the design, architecture, integration, review, deployment and operation; Claude Code, Codex and Cursor write much of the code.
+
+#### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/uros-mutavdzic) · [rkeus.com](https://www.rkeus.com)
