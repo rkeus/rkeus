@@ -2,7 +2,7 @@
 
 Full-stack & AI systems engineer in Belgrade, Serbia. 20+ years of building and running production web systems, from multi-language site networks and a live streaming platform to self-hosted AI infrastructure: RAG, MCP servers and agent tooling.
 
-Founder of [rkeus](https://rkeus.com).
+Founder of [rkeus](https://www.rkeus.com).
 
 #### What I work on
 
@@ -26,4 +26,4 @@ Repositories are being published here step by step.
 For 20 years I wrote all of my code - PHP, JavaScript, SQL, server configs - for client platforms, my own companies and hundreds of sites. Today I build my newer projects with AI coding tools: I own the design, architecture, review, deployment and operation, and Claude Code, Codex and Cursor write much of the code. Two decades of writing it myself is what lets me review, fix and run what they produce.
 #### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/uros-mutavdzic) · [rkeus.com](https://www.rkeus.com)
+[LinkedIn](https://www.linkedin.com/in/uros-mutavdzic) · [www.rkeus.com](https://www.rkeus.com)
