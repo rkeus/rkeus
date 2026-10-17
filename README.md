@@ -23,8 +23,7 @@ Repositories are being published here step by step.
 
 #### How I build
 
-AI-assisted engineering: I own the design, architecture, integration, review, deployment and operation; Claude Code, Codex and Cursor write much of the code.
-
+For 20 years I wrote all of my code - PHP, JavaScript, SQL, server configs - for client platforms, my own companies and hundreds of sites. Today I build my newer projects with AI coding tools: I own the design, architecture, review, deployment and operation, and Claude Code, Codex and Cursor write much of the code. Two decades of writing it myself is what lets me review, fix and run what they produce.
 #### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/uros-mutavdzic) · [rkeus.com](https://www.rkeus.com)
